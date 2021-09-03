@@ -1,0 +1,26 @@
+{
+  "Pessoas": [
+    {
+      "name": "Ram",
+      "email": "Ram@gmail.com"
+    }, {
+      "name": "Bob",
+      "email": "bob32@gmail.com"
+    }, {
+      "name": "Fabiano",
+      "email": "fabiano@gmail.com"
+    }, {
+      "name": "Fernando",
+      "email": "fernando@gmail.com"
+    }, {
+      "name": "Fabricio",
+      "email": "fabricio@gmail.com"
+    }, {
+      "name": "Fábio",
+      "email": "fabio@gmail.com"
+    }, {
+      "name": "Flávio",
+      "email": "flavio@gmail.com"
+    }
+  ]
+}

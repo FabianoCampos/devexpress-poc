@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignDevExpress.Api", "DesignDevExpress.Api\DesignDevExpress.Api.csproj", "{EBE625D7-08E9-4582-A28B-1261BB0835A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBE625D7-08E9-4582-A28B-1261BB0835A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBE625D7-08E9-4582-A28B-1261BB0835A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBE625D7-08E9-4582-A28B-1261BB0835A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBE625D7-08E9-4582-A28B-1261BB0835A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

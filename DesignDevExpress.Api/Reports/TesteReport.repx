@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XtraReportsLayoutSerializer SerializerVersion="20.2.4.0" Ref="0" ControlType="DevExpress.XtraReports.UI.XtraReport, DevExpress.XtraReports.v20.2, Version=20.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" Name="XtraReport" PageWidth="850" PageHeight="1100" Version="20.2" Tag_type="System.String" Tag="TesteReport">
+  <Bands>
+    <Item1 Ref="1" ControlType="TopMarginBand" Name="TopMargin1" />
+    <Item2 Ref="2" ControlType="DetailBand" Name="Detail1" />
+    <Item3 Ref="3" ControlType="BottomMarginBand" Name="BottomMargin1" />
+  </Bands>
+</XtraReportsLayoutSerializer>
