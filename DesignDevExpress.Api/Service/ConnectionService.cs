@@ -10,10 +10,10 @@ namespace DesignDevExpress.Api.Service
             var connectionStringBuilder = new SqlConnectionStringBuilder()
             {
                 
-                DataSource = "172.21.24.4,41433",
-                InitialCatalog = "UNJ01TINT",
-                UserID = "sajtools",
-                Password = "@agesune1"
+                DataSource = "localhost",
+                InitialCatalog = "dbname",
+                UserID = "user",
+                Password = "pass"
             };
             
             return $"{connectionStringBuilder}";
